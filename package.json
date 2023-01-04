@@ -1,0 +1,16 @@
+{
+  "name": "custom-server",
+  "version": "1.0.0",
+  "description": "custom server",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js"
+    
+  },
+  "keywords": [],
+  "author": "sayan",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
