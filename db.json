@@ -6,16 +6,25 @@
       "year": 2019,
       "type": "Manual",
       "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
+      "Description": "Tata Altroz",
       "Price": 500000
     },
     {
       "id": 2,
       "brand": "Tata",
-      "type": "AMT",
+      "type": "Automatic",
       "year": 2017,
       "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
+      "Description": "Tata Nexon",
+      "Price": 800000
+    },
+    {
+      "id": 3,
+      "brand": "Audi",
+      "type": "Manual",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Audi A4",
       "Price": 800000
     }
   ],
@@ -28,6 +37,25 @@
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
+    },
+    {
+      "id": 3,
+      "brand": "Audi",
+      "type": "Manual",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Audi A4",
+      "Price": 800000
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSup8EMrbtUe2ZWJh_w6pzlUSqKE9hCv8bS8A&usqp=CAU",
+      "kms": "200000",
+      "Description": "Benz",
+      "Price": "125000",
+      "brand": "Benz",
+      "type": "Automatic",
+      "year": "2022",
+      "id": 4
     }
   ]
 }
