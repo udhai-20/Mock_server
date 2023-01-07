@@ -1,61 +1,55 @@
 {
-  "cars": [
+  "Users": [
     {
       "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz",
-      "Price": 500000
+      "name": "json-server",
+      "password": "typicode",
+      "email": "typicode"
     },
     {
+      "username": "udhaya",
+      "email": "eve.holt@reqres.in",
+      "password": "123456",
       "id": 2,
-      "brand": "Tata",
-      "type": "Automatic",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon",
-      "Price": 800000
+      "userid": 1673079533974
     },
     {
-      "id": 3,
-      "brand": "Audi",
-      "type": "Manual",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Audi A4",
-      "Price": 800000
+      "username": "udhaya",
+      "email": "udhayaprakash122@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "username": "udhayaw",
+      "email": "udhayaprakash1223@gmail.com",
+      "password": "1223345",
+      "id": 4,
+      "userid": 1673078958099
+    },
+    {
+      "username": "udhayaqqwqw",
+      "email": "udhayaprakash122qqq@gmail.com",
+      "password": "122121",
+      "id": 5
     }
   ],
-  "wishlisted_cars": [
+  "Tasks": [
     {
       "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "task1": "some comment",
+      "userId": 1
     },
     {
-      "id": 3,
-      "brand": "Audi",
-      "type": "Manual",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Audi A4",
-      "Price": 800000
+      "userId": "udhaya",
+      "tasks": "chekiong",
+      "date": "2023-01-07T08:40:02.067Z",
+      "id": 2
     },
     {
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSup8EMrbtUe2ZWJh_w6pzlUSqKE9hCv8bS8A&usqp=CAU",
-      "kms": "200000",
-      "Description": "Benz",
-      "Price": "125000",
-      "brand": "Benz",
-      "type": "Automatic",
-      "year": "2022",
-      "id": 4
+      "userid_ls": 1673079533974,
+      "tasks": "user id is added?",
+      "date": "2023-01-07T08:40:47.787Z",
+      "id": 3
     }
   ]
 }
