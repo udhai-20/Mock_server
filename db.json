@@ -1,54 +1,31 @@
 {
-  "Users": [
+  "Dogs": [
     {
       "id": 1,
-      "name": "json-server",
-      "password": "typicode",
-      "email": "typicode"
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
     },
     {
-      "username": "udhaya",
-      "email": "eve.holt@reqres.in",
-      "password": "123456",
-      "id": 2,
-      "userid": 1673079533974
+      "id": 15,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     },
     {
-      "username": "udhaya",
-      "email": "udhayaprakash122@gmail.com",
-      "password": "123456",
-      "id": 3
-    },
-    {
-      "username": "udhayaw",
-      "email": "udhayaprakash1223@gmail.com",
-      "password": "1223345",
-      "id": 4,
-      "userid": 1673078958099
-    },
-    {
-      "username": "udhayaqqwqw",
-      "email": "udhayaprakash122qqq@gmail.com",
-      "password": "122121",
-      "id": 5
-    }
-  ],
-  "Tasks": [
-    {
-      "id": 1,
-      "task1": "some comment",
-      "userId": 1
-    },
-    {
-      "userId": "udhaya",
-      "tasks": "chekiong",
-      "date": "2023-01-07T08:40:02.067Z",
+      "name": "roger",
+      "age": "5",
+      "place": "cdm",
+      "gender": "Male",
       "id": 2
     },
     {
-      "userid_ls": 1673079533974,
-      "tasks": "user id is added?",
-      "date": "2023-01-07T08:40:47.787Z",
+      "name": "check",
+      "age": "2",
+      "place": "chennai",
+      "gender": "Female",
       "id": 3
     }
   ]
